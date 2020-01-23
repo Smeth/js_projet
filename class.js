@@ -5,3 +5,9 @@ class Rectangle {
       this.largeur = largeur;
     }
   }
+
+class Pilote {
+
+    
+
+}
